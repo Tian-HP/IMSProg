@@ -7,6 +7,11 @@ Files: *
 Copyright: 2023-2024 Mikhail Medvedev <e-ink-reader@yandex.ru>
 License: GPL-3+
 
+Files: IMSProg_programmer/language/chipProgrammer_zh_CN.ts
+       IMSProg_editor/language/chipEditor_zh_CN.ts
+Copyright: 2024 Tian Hongpeng <https://github.com/Tian-HP>
+License: GPL-3+
+
 Files: IMSProg_programmer/language/chipProgrammer_uk_UA.ts
        IMSProg_editor/language/chipEditor_uk_UA.ts
 Copyright: 2023 Sergey Golovko <cappelikan@gmail.com>
